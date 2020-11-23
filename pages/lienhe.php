@@ -10,6 +10,6 @@
 <?php
     echo'<h1 style="color: red;text-shadow:2px 2px 5px yellow;">Hello Liên hệ!!!!</h1>';
 ?>
-<a href="../index.php"><h3>Quay về trang chủ</h3></a>
+<a href="../index.php" style="text-decoration: none;"><h3>Quay về trang chủ</h3></a>
 </body>
 </html>
