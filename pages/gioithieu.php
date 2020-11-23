@@ -8,9 +8,8 @@
 </head>
 <body>
 <?php
-    echo'<h1 style="color: red;text-shadow:2px 2px 5px yellow;">Hello!!!!</h1>';
+    echo'<h1 style="color: red;text-shadow:2px 2px 5px yellow;">Hello Giới Thiệu!!!!</h1>';
 ?>
-<a href="pages/gioithieu.php"><h3>Giới Thiệu</h3></a>
-<a href="pages/lienhe.php"><h3>Liên Hệ</h3></a>
+<a href="../index.php"><h3>Quay về trang chủ</h3></a>
 </body>
 </html>
